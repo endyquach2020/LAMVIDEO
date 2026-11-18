@@ -1,0 +1,22 @@
+{
+  "version": "0.1.5",
+  "name": "HosiFlow Studio",
+  "releaseDate": "2026-11-11",
+  "description": "Bản cập nhật v0.1.5: Trạm sản xuất Video Affiliate chuyên nghiệp cho Shopee và TikTok Shop. Tự động cào link sản phẩm, tải trọn bộ ảnh Full HD, bóc tách giá bán, giá gốc, sao đánh giá và 1-click tự động bung kịch bản 3 phân cảnh dọc 9:16 chuẩn viral TikTok kèm continuity liền mạch.",
+  "changelog": [
+    "Thêm Node Sản Phẩm Affiliate chuyên dụng (ProductAffiliateNode) trên Canvas với giao diện Thương mại điện tử trực quan",
+    "Hỗ trợ bóc tách link sản phẩm Shopee (shopee.vn, s.shopee.vn) và TikTok Shop (tiktok.com, vt.tiktok.com)",
+    "Tự động tải trọn bộ ảnh sản phẩm Full HD CDN, chọn ảnh đại diện Hero làm ảnh tham chiếu (reference)",
+    "Bóc tách chính xác giá khuyến mãi, giá gốc gạch ngang, tỷ lệ giảm giá %, điểm đánh giá sao và số lượng đã bán",
+    "Cho phép tùy chỉnh / sửa giá trực tiếp ngay trên Node trong trường hợp flash sale hoặc voucher biến động",
+    "Tùy chọn 4 phong cách Hook TikTok 3s đầu: Đập hộp & Ngỡ ngàng, Sốc giá & Flash Sale, Giải quyết vấn đề, Review chân thật",
+    "Nút 1-chạm 'Bung Kịch Bản Affiliate Vào Canvas': Tự động sinh 3 phân cảnh dọc 9:16 (Hook -> Demo trải nghiệm -> Báo giá & Kêu gọi bấm giỏ hàng) nối sẵn Continuity và ảnh sản phẩm",
+    "Nâng cấp tiện ích mở rộng HosiFlow Companion lên v1.6.0: Tích hợp công cụ trích xuất dữ liệu DOM Shopee & TikTok Shop không cần API token"
+  ],
+  "downloadLinks": {
+    "portableExe": "https://github.com/lachinhan/hosiflow-studio/raw/refs/heads/main/HosiFlow-Studio.exe",
+    "setupExe": "https://github.com/lachinhan/hosiflow-studio/raw/refs/heads/main/HosiFlow%20Studio_Setup.exe",
+    "companionZip": "https://github.com/lachinhan/hosiflow-studio/raw/refs/heads/main/companion-extension.zip",
+    "releasesPage": "https://github.com/lachinhan/hosiflow-studio/releases"
+  }
+}
